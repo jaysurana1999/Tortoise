@@ -1,6 +1,3 @@
-# Tortoise
-Tortoise UI development
-
 # About The Project
 Tortoise UI development using react-native. 
 
