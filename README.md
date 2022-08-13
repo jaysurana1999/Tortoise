@@ -2,7 +2,7 @@
 Tortoise UI development using react-native. Please navigate to the master branch to clone or see the demo
 
 # Sample
-Please refer to the sample Screen recording in the repository.
+Please refer to the sample Screen recording in the repository [Screen Recording ](https://github.com/jaysurana1999/Tortoise/blob/master/screen_recording_tortoise.mov)
 
 # Instructions to run the project
 
