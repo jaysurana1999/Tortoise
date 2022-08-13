@@ -1,5 +1,5 @@
 # About The Project
-Tortoise UI development using react-native. Please refer to the master branch to clone or see the demo
+Tortoise UI development using react-native. Please navigate to the master branch to clone or see the demo
 
 # Sample
 Please refer to the sample Screen recording in the repository.
